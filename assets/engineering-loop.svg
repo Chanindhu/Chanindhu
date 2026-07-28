@@ -1,0 +1,67 @@
+<svg width="1400" height="320" viewBox="0 0 1400 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Problem to product engineering loop</title>
+  <desc id="desc">A five step engineering loop: understand, model, build, validate, ship.</desc>
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="1400" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#071A2C"/>
+      <stop offset="1" stop-color="#091637"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="40" y1="0" x2="1360" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#60F4F7"/>
+      <stop offset="0.5" stop-color="#8978FF"/>
+      <stop offset="1" stop-color="#5EF2C2"/>
+    </linearGradient>
+    <filter id="glow" x="-25%" y="-35%" width="150%" height="170%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .title { font: 800 42px 'Inter','Segoe UI',Arial,sans-serif; fill:#F5FAFF; }
+      .stepNo { font: 800 20px 'Inter','Segoe UI',Arial,sans-serif; fill:#58ECFF; letter-spacing: 2px; }
+      .step { font: 800 27px 'Inter','Segoe UI',Arial,sans-serif; fill:#F5FAFF; }
+      .sub { font: 700 16px 'Inter','Segoe UI',Arial,sans-serif; fill:#A9BBD2; }
+      .arrow { font: 800 30px 'Inter','Segoe UI',Arial,sans-serif; fill:#60F4F7; opacity:.7; }
+    </style>
+  </defs>
+  <rect x="24" y="20" width="1352" height="280" rx="34" fill="url(#card)" stroke="url(#accent)" stroke-width="2.2"/>
+  <text class="title" x="700" y="75" text-anchor="middle">Problem-to-Product Engineering Loop</text>
+
+  <g filter="url(#glow)">
+    <rect x="90" y="120" width="210" height="118" rx="24" fill="#0C2438" stroke="#60F4F7" stroke-width="3"/>
+    <rect x="335" y="120" width="210" height="118" rx="24" fill="#0C2438" stroke="#5EF2C2" stroke-width="3"/>
+    <rect x="580" y="120" width="210" height="118" rx="24" fill="#151E50" stroke="#8978FF" stroke-width="3"/>
+    <rect x="825" y="120" width="210" height="118" rx="24" fill="#0C2438" stroke="#60F4F7" stroke-width="3"/>
+    <rect x="1070" y="120" width="240" height="118" rx="24" fill="#0C2438" stroke="#5EF2C2" stroke-width="3"/>
+  </g>
+
+  <text class="arrow" x="312" y="190" text-anchor="middle">→</text>
+  <text class="arrow" x="557" y="190" text-anchor="middle">→</text>
+  <text class="arrow" x="802" y="190" text-anchor="middle">→</text>
+  <text class="arrow" x="1047" y="190" text-anchor="middle">→</text>
+
+  <g transform="translate(115 145)">
+    <text class="stepNo" x="0" y="0">01</text>
+    <text class="step" x="0" y="38">Understand</text>
+    <text class="sub" x="0" y="68">requirements + risk</text>
+  </g>
+  <g transform="translate(360 145)">
+    <text class="stepNo" x="0" y="0">02</text>
+    <text class="step" x="0" y="38">Model</text>
+    <text class="sub" x="0" y="68">data + architecture</text>
+  </g>
+  <g transform="translate(605 145)">
+    <text class="stepNo" x="0" y="0">03</text>
+    <text class="step" x="0" y="38">Build</text>
+    <text class="sub" x="0" y="68">features + APIs</text>
+  </g>
+  <g transform="translate(850 145)">
+    <text class="stepNo" x="0" y="0">04</text>
+    <text class="step" x="0" y="38">Validate</text>
+    <text class="sub" x="0" y="68">tests + evidence</text>
+  </g>
+  <g transform="translate(1095 145)">
+    <text class="stepNo" x="0" y="0">05</text>
+    <text class="step" x="0" y="38">Ship</text>
+    <text class="sub" x="0" y="68">docs + delivery</text>
+  </g>
+</svg>

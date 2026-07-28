@@ -1,0 +1,95 @@
+<svg width="1400" height="420" viewBox="0 0 1400 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Chanindhu Bandara GitHub Profile Banner</title>
+  <desc id="desc">AI-focused software engineering banner for Chanindhu Bandara.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#061B2A"/>
+      <stop offset="0.48" stop-color="#0A1634"/>
+      <stop offset="1" stop-color="#1A215F"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="90" y1="325" x2="850" y2="35" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#60F4F7"/>
+      <stop offset="0.52" stop-color="#5EF2C2"/>
+      <stop offset="1" stop-color="#8978FF"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="875" y1="90" x2="1260" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B2135" stop-opacity="0.98"/>
+      <stop offset="1" stop-color="#07121F" stop-opacity="0.98"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(250 320) rotate(-18) scale(450 210)">
+      <stop stop-color="#5EF2C2" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#5EF2C2" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .small { font: 700 23px 'Inter', 'Segoe UI', Arial, sans-serif; letter-spacing: 6px; fill: #68F5F7; }
+      .name { font: 800 70px 'Inter', 'Segoe UI', Arial, sans-serif; fill: #F6FAFF; }
+      .tagline { font: 700 30px 'Inter', 'Segoe UI', Arial, sans-serif; fill: #BFD0E5; }
+      .pill { font: 800 17px 'Inter', 'Segoe UI', Arial, sans-serif; letter-spacing: 1px; fill: #EFF8FF; }
+      .panelTitle { font: 800 25px 'Inter', 'Segoe UI', Arial, sans-serif; letter-spacing: 5px; fill: #A8B7CD; }
+      .num { font: 800 28px 'Inter', 'Segoe UI', Arial, sans-serif; fill: #58ECFF; }
+      .rowText { font: 800 25px 'Inter', 'Segoe UI', Arial, sans-serif; fill: #F3F8FF; }
+      .rowSub { font: 700 17px 'Inter', 'Segoe UI', Arial, sans-serif; fill: #61F4C4; }
+    </style>
+  </defs>
+
+  <rect x="20" y="22" width="1360" height="376" rx="34" fill="url(#bg)" stroke="url(#accent)" stroke-width="2.2" opacity="0.98"/>
+  <rect x="20" y="22" width="1360" height="376" rx="34" fill="url(#glow)"/>
+
+  <path d="M80 285C205 210 326 205 430 245C535 287 630 331 752 286C862 246 932 146 1082 156C1198 164 1266 233 1340 244" stroke="#5EF2C2" stroke-opacity="0.32" stroke-width="2.2"/>
+  <path d="M90 150C260 78 445 138 560 176C689 218 797 103 950 112C1092 120 1225 201 1335 187" stroke="#8978FF" stroke-opacity="0.36" stroke-width="2"/>
+  <path d="M240 314C353 255 475 271 604 305C729 338 832 320 944 257C1051 198 1166 195 1295 253" stroke="#60F4F7" stroke-opacity="0.18" stroke-width="2"/>
+  <circle cx="155" cy="134" r="5" fill="#60F4F7" opacity="0.65"/>
+  <circle cx="487" cy="276" r="5" fill="#8978FF" opacity="0.75"/>
+  <circle cx="805" cy="129" r="5" fill="#60F4F7" opacity="0.58"/>
+  <circle cx="710" cy="323" r="5" fill="#5EF2C2" opacity="0.55"/>
+  <circle cx="1190" cy="163" r="5" fill="#8978FF" opacity="0.58"/>
+
+  <g transform="translate(100 110)">
+    <text class="small" x="0" y="0">AI ENGINEERING • CLOUD • PRODUCT</text>
+    <text class="name" x="0" y="78">Chanindhu Bandara</text>
+    <text class="tagline" x="0" y="135">Building AI-powered applications, ML workflows,</text>
+    <text class="tagline" x="0" y="176">cloud platforms and full-stack software.</text>
+    <g transform="translate(0 226)">
+      <rect x="0" y="0" width="126" height="38" rx="19" fill="#102B40" stroke="#60F4F7"/>
+      <text class="pill" x="24" y="25">PYTHON</text>
+      <rect x="145" y="0" width="126" height="38" rx="19" fill="#102B40" stroke="#5EF2C2"/>
+      <text class="pill" x="173" y="25">FASTAPI</text>
+      <rect x="290" y="0" width="112" height="38" rx="19" fill="#161E4B" stroke="#8978FF"/>
+      <text class="pill" x="323" y="25">REACT</text>
+      <rect x="421" y="0" width="92" height="38" rx="19" fill="#102B40" stroke="#60F4F7"/>
+      <text class="pill" x="449" y="25">AWS</text>
+      <rect x="532" y="0" width="160" height="38" rx="19" fill="#102B40" stroke="#5EF2C2"/>
+      <text class="pill" x="558" y="25">POSTGRESQL</text>
+    </g>
+  </g>
+
+  <g transform="translate(830 92)">
+    <rect x="0" y="0" width="440" height="252" rx="28" fill="url(#panel)" stroke="#2F8EA5" stroke-width="2.2"/>
+    <circle cx="45" cy="42" r="9" fill="#FF7A59"/>
+    <circle cx="72" cy="42" r="9" fill="#FFD166"/>
+    <circle cx="99" cy="42" r="9" fill="#5EF2C2"/>
+    <text class="panelTitle" x="45" y="92">BUILD STATUS</text>
+    <g transform="translate(45 132)">
+      <text class="num" x="0" y="0">01</text>
+      <text class="rowText" x="68" y="0">AI systems</text>
+      <text class="rowSub" x="315" y="0">LIVE</text>
+    </g>
+    <g transform="translate(45 183)">
+      <text class="num" x="0" y="0">02</text>
+      <text class="rowText" x="68" y="0">ML workflows</text>
+      <text class="rowSub" x="315" y="0">READY</text>
+    </g>
+    <g transform="translate(45 234)">
+      <text class="num" x="0" y="0">03</text>
+      <text class="rowText" x="68" y="0">Cloud APIs</text>
+      <text class="rowSub" x="315" y="0">BUILT</text>
+    </g>
+  </g>
+</svg>
