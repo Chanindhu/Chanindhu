@@ -1,8 +1,8 @@
-![Chanindhu Bandara ‚Äî AI-focused software engineering](./assets/profile-banner.svg)
+![Chanindhu Bandara - AI-focused software engineering](./assets/profile-banner.svg)
 
 # Hello, I'm Chanindhu Bandara
 
-**Software Engineering Graduate focused on AI Engineering** ‚Äî building AI-powered applications, machine learning workflows, cloud-backed platforms and full-stack software that can be inspected, improved and delivered professionally.
+**Software Engineering Graduate focused on AI Engineering** - building AI-powered applications, machine learning workflows, cloud-backed platforms and full-stack software that can be inspected, improved and delivered professionally.
 
 I like working across the full product path: understanding the problem, shaping the architecture, building the backend and interface, validating behaviour, documenting the system and preparing it for real users.
 
@@ -52,7 +52,7 @@ Why it leads the portfolio:
 ## Engineering toolbox
 
 **Languages**  
-Python ¬∑ Java ¬∑ C# ¬∑ C ¬∑ TypeScript ¬∑ JavaScript ¬∑ SQL
+Python ¬¨‚àë Java ¬¨‚àë C# ¬¨‚àë C ¬¨‚àë TypeScript ¬¨‚àë JavaScript ¬¨‚àë SQL
 
 <p align="left">
   <img alt="Python" src="https://img.shields.io/badge/Python-071A2C?style=flat-square&logo=python&logoColor=60F4F7">
@@ -65,7 +65,7 @@ Python ¬∑ Java ¬∑ C# ¬∑ C ¬∑ TypeScript ¬∑ JavaScript ¬∑ SQL
 </p>
 
 **Backend, APIs and application frameworks**  
-FastAPI ¬∑ Flask ¬∑ ASP.NET Core ¬∑ REST APIs ¬∑ MVC and layered architecture ¬∑ Authentication workflows
+FastAPI ¬¨‚àë Flask ¬¨‚àë ASP.NET Core ¬¨‚àë REST APIs ¬¨‚àë MVC and layered architecture ¬¨‚àë Authentication workflows
 
 <p align="left">
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-071A2C?style=flat-square&logo=fastapi&logoColor=5EF2C2">
@@ -75,7 +75,7 @@ FastAPI ¬∑ Flask ¬∑ ASP.NET Core ¬∑ REST APIs ¬∑ MVC and layered arc
 </p>
 
 **Frontend, mobile and desktop UI**  
-React ¬∑ TypeScript ¬∑ Tailwind CSS ¬∑ Android ¬∑ JavaFX ¬∑ WPF
+React ¬¨‚àë TypeScript ¬¨‚àë Tailwind CSS ¬¨‚àë Android ¬¨‚àë JavaFX ¬¨‚àë WPF
 
 <p align="left">
   <img alt="React" src="https://img.shields.io/badge/React-071A2C?style=flat-square&logo=react&logoColor=60F4F7">
@@ -86,7 +86,7 @@ React ¬∑ TypeScript ¬∑ Tailwind CSS ¬∑ Android ¬∑ JavaFX ¬∑ WPF
 </p>
 
 **Data, AI and machine learning**  
-Machine learning workflows ¬∑ Feature engineering ¬∑ Model evaluation ¬∑ PostgreSQL ¬∑ MySQL ¬∑ SQLite ¬∑ Jupyter Notebook
+Machine learning workflows ¬¨‚àë Feature engineering ¬¨‚àë Model evaluation ¬¨‚àë PostgreSQL ¬¨‚àë MySQL ¬¨‚àë SQLite ¬¨‚àë Jupyter Notebook
 
 <p align="left">
   <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-071A2C?style=flat-square&logo=python&logoColor=60F4F7">
@@ -97,7 +97,7 @@ Machine learning workflows ¬∑ Feature engineering ¬∑ Model evaluation ¬�
 </p>
 
 **Cloud, DevOps and engineering tools**  
-AWS EC2 ¬∑ AWS RDS ¬∑ VPC ¬∑ CloudWatch ¬∑ Docker ¬∑ Git ¬∑ GitHub Actions ¬∑ Postman ¬∑ Linux ¬∑ Windows
+AWS EC2 ¬¨‚àë AWS RDS ¬¨‚àë VPC ¬¨‚àë CloudWatch ¬¨‚àë Docker ¬¨‚àë Git ¬¨‚àë GitHub Actions ¬¨‚àë Postman ¬¨‚àë Linux ¬¨‚àë Windows
 
 <p align="left">
   <img alt="AWS" src="https://img.shields.io/badge/AWS-071A2C?style=flat-square&logo=amazonwebservices&logoColor=FFD166">
@@ -116,35 +116,35 @@ AWS EC2 ¬∑ AWS RDS ¬∑ VPC ¬∑ CloudWatch ¬∑ Docker ¬∑ Git ¬∑ Gi
 ## Project archive by area
 
 **AI / ML**  
-EduGuard ¬∑ BLEVE Pressure Prediction ML ¬∑ AI-assisted academic integrity workflows
+EduGuard ¬¨‚àë BLEVE Pressure Prediction ML ¬¨‚àë AI-assisted academic integrity workflows
 
 **Cloud / backend / full-stack**  
-PitCrew Connect ¬∑ ASP.NET Core Banking Platform ¬∑ Flask Web Security Lab
+PitCrew Connect ¬¨‚àë ASP.NET Core Banking Platform ¬¨‚àë Flask Web Security Lab
 
 **Distributed and systems engineering**  
-P2P Job Swarm .NET ¬∑ MKX Gaming Lobby WCF ¬∑ C pthread Sorting Simulator ¬∑ Air Traffic Simulator Java
+P2P Job Swarm .NET ¬¨‚àë MKX Gaming Lobby WCF ¬¨‚àë C pthread Sorting Simulator ¬¨‚àë Air Traffic Simulator Java
 
 **Java / OOP / algorithms**  
-JavaFX Maze Game Engine ¬∑ Railway Network Simulator Java ¬∑ City Grid Planner Java ¬∑ Airline Route Planner DSA ¬∑ Numerology Analyzer Java
+JavaFX Maze Game Engine ¬¨‚àë Railway Network Simulator Java ¬¨‚àë City Grid Planner Java ¬¨‚àë Airline Route Planner DSA ¬¨‚àë Numerology Analyzer Java
 
 **Mobile and UX**  
-Calorie Tracker Android ¬∑ Connect Four Android ¬∑ OnlyFit UX Case Study
+Calorie Tracker Android ¬¨‚àë Connect Four Android ¬¨‚àë OnlyFit UX Case Study
 
 ---
 
 ## How I work
 
-- **Understand before building** ‚Äî clarify the real requirement, constraints, users and failure paths.
-- **Design readable boundaries** ‚Äî keep APIs, data models, domain logic, integrations and UI responsibilities understandable.
-- **Build for evidence** ‚Äî use tests, validation, screenshots, reports, documentation and reproducible setup steps.
-- **Treat security as engineering** ‚Äî validate inputs, protect sensitive configuration and avoid exposing secrets.
-- **Finish professionally** ‚Äî a project is not done until another person can inspect, run, understand and maintain it.
+- **Understand before building** - clarify the real requirement, constraints, users and failure paths.
+- **Design readable boundaries** - keep APIs, data models, domain logic, integrations and UI responsibilities understandable.
+- **Build for evidence** - use tests, validation, screenshots, reports, documentation and reproducible setup steps.
+- **Treat security as engineering** - validate inputs, protect sensitive configuration and avoid exposing secrets.
+- **Finish professionally** - a project is not done until another person can inspect, run, understand and maintain it.
 
 ---
 
 ## Academic foundation
 
-**Bachelor of Computing ‚Äî Software Engineering Major**  
+**Bachelor of Computing - Software Engineering Major**  
 Curtin University, Colombo
 
 - Completed degree requirements; graduation ceremony pending.
@@ -153,7 +153,7 @@ Curtin University, Colombo
 - Strong results across cloud computing, machine learning, capstone project work, operating systems, distributed systems, mobile application development and software architecture.
 
 **Google AI Essentials**  
-Coursera / Google Career Certificates ‚Äî practical AI productivity, prompting, responsible AI use and modern AI workflows.
+Coursera / Google Career Certificates - practical AI productivity, prompting, responsible AI use and modern AI workflows.
 
 ---
 
